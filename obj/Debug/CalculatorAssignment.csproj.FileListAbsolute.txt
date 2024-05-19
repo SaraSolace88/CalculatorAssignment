@@ -1,0 +1,10 @@
+C:\Users\DSU\Documents\School\CSC260\CalculatorAssignment\bin\Debug\CalculatorAssignment.exe.config
+C:\Users\DSU\Documents\School\CSC260\CalculatorAssignment\bin\Debug\CalculatorAssignment.exe
+C:\Users\DSU\Documents\School\CSC260\CalculatorAssignment\bin\Debug\CalculatorAssignment.pdb
+C:\Users\DSU\Documents\School\CSC260\CalculatorAssignment\obj\Debug\CalculatorAssignment.csproj.AssemblyReference.cache
+C:\Users\DSU\Documents\School\CSC260\CalculatorAssignment\obj\Debug\CalculatorAssignment.FrmCalculator.resources
+C:\Users\DSU\Documents\School\CSC260\CalculatorAssignment\obj\Debug\CalculatorAssignment.Properties.Resources.resources
+C:\Users\DSU\Documents\School\CSC260\CalculatorAssignment\obj\Debug\CalculatorAssignment.csproj.GenerateResource.cache
+C:\Users\DSU\Documents\School\CSC260\CalculatorAssignment\obj\Debug\CalculatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\DSU\Documents\School\CSC260\CalculatorAssignment\obj\Debug\CalculatorAssignment.exe
+C:\Users\DSU\Documents\School\CSC260\CalculatorAssignment\obj\Debug\CalculatorAssignment.pdb
